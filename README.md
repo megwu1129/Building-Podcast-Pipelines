@@ -1,5 +1,3 @@
-# building-podcast-pipelines
-
 ## Overview
 
 In this project, I built a data pipeline using Airflow. The pipeline will download podcast episodes and automatically transcribe them using speech recognition. I stored the results in a SQLite database that we can easily query.
